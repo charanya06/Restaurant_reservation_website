@@ -1,0 +1,181 @@
+{
+    "data": [
+        {
+        "dishes": [
+            {
+                "id": 1,
+                "image": "https://i.pinimg.com/originals/f0/61/13/f061132940080c66cd04a4723604aa56.jpg",
+                "title": "Beverages"
+               
+            },
+            {
+                "id": 2,
+                "image": "https://i.pinimg.com/originals/78/dd/df/78dddffbe131c15f9dde4ef1508a37a9.jpg",
+                "title": "Iced Teas And Lemonades"
+                
+            },
+            {
+                "id": 3,
+                "image": "https://i.pinimg.com/originals/ab/70/88/ab7088793a16ac352f9bfdab57d09f76.jpg",
+                "title": "Desserts"
+            }
+            
+        ],
+        "menu_beverages": [
+            {
+                "id": 1,
+                "image": "http://3.bp.blogspot.com/-yhi0YqYC_4E/VnBpeTSWdNI/AAAAAAAD2iI/Is8jNeuZ5n8/s1600/Salted%2BCaramel%2BMocha2.png",
+                "title": "Hot Sea Salt Mocha"
+               
+            },
+            {
+                "id": 2,
+                "image": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648475850.jpg",
+                "title": "Choco Hazelnut Frappe"
+                
+            },
+            {
+                "id": 3,
+                "image": "https://wendisaipkitchen.com/wp-content/uploads/2021/05/Iced-Vanilla-Latte-Landscape.jpg",
+                "title": "Iced Latte"
+            }
+            
+        ],
+        "menu_iced": [
+            {
+                "id": 1,
+                "image": "https://veganbell.com/wp-content/uploads/2020/08/Iced-Lemon-Tea-3-1536x1536.jpg",
+                "title": "Citrus Iced Tea"
+               
+            },
+            {
+                "id": 2,
+                "image": "https://www.acozykitchen.com/wp-content/uploads/2017/04/IcedMatchaLatte-8-1080x1356.jpg",
+                "title": "Iced Japanese Matcha Latte"
+                
+            },
+            {
+                "id": 3,
+                "image": "https://www.foodandwine.com/thmb/gmDibzz-fJM0mKZU6RXMrjSNlQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Masala-Chai-Latte-FT-RECIPE0622-580648d3d28a49748259e85334fbe00b.jpg",
+                "title": "Iced Masala Chai Latte"
+            }
+            
+        ],
+        "menu_desserts": [
+            {
+                "id": 1,
+                "image": "https://salvagente.co.za/wp-content/uploads/2015/05/sandhiracinnamon-roll13859833365480.jpg",
+                "title": "Cinnamon Roll"
+               
+            },
+            {
+                "id": 2,
+                "image": "https://external-preview.redd.it/c2-SfVulzaZrFwGgnFXH47RICbQhSGy9YDoiBMefi0w.jpg?auto=webp&s=60ff86376a6627b57d741912d8b2990203a3d02f",
+                "title": "Chocolate Croissant"
+                
+            },
+            {
+                "id": 3,
+                "image": "https://www.thespruceeats.com/thmb/_DXtNk4jvXa2XETehy5gVCkYxGA=/3000x2001/filters:fill(auto,1)/SaltedCaramelCookiesHERO-4935604bd4384d90bc79a8150dd7b573.jpg",
+                "title": "Salted Caramel Cookie"
+            }
+            
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "JOHNATHAN TYLER",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "JHON DOE",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "Senior Chef"
+            }
+        ],
+        
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Cafes"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Desserts"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": " "
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 4,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
